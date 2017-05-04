@@ -1,0 +1,3 @@
+rootProject.name='android-jorm'
+include ':jorm'
+include ':sample'
